@@ -1,0 +1,14 @@
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\bin\Debug\net10.0\Console.exe
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\bin\Debug\net10.0\Console.deps.json
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\bin\Debug\net10.0\Console.runtimeconfig.json
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\bin\Debug\net10.0\Console.dll
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\bin\Debug\net10.0\Console.pdb
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.AssemblyInfoInputs.cache
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.AssemblyInfo.cs
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.csproj.CoreCompileInputs.cache
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.dll
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\refint\Console.dll
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.pdb
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\Console.genruntimeconfig.cache
+D:\Авик\4 курс\МДК 09.03\практики\14\Console\obj\Debug\net10.0\ref\Console.dll
